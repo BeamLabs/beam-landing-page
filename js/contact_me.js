@@ -1,5 +1,7 @@
 $(function() {
-
+    // TODO: Uncomment this form if we wish to use php to send mail.
+    // Formspree seems like a great way to send mail from github pages.
+    /*
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -61,6 +63,7 @@ $(function() {
         e.preventDefault();
         $(this).tab("show");
     });
+    */
 });
 
 
