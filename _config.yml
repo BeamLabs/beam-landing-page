@@ -11,7 +11,7 @@ description: "Official home page of Beam Labs."
 people:
 - name: Andre Giron
   pic: andre
-  position: Cofounder / Web Developer
+  position: Cofounder / Developer
   social:
     - title: github
       url: http://github.com/agiron123
@@ -22,7 +22,7 @@ people:
 
 - name: Inder Dhir
   pic: 2
-  position: Cofounder / Mobile Developer
+  position: Cofounder / Developer
   social:
     - title: twitter
       url: #
