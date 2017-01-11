@@ -24,12 +24,12 @@ people:
   pic: 2
   position: Cofounder / Mobile Developer
   social:
+    - title: github
+      url: https://github.com/inderdhir
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/inderdhir03
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/inder-dhir-862a7077
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
