@@ -19,6 +19,8 @@ people:
       url: https://twitter.com/agiron_78
     - title: linkedin
       url: https://www.linkedin.com/in/andre-giron-bb921943
+    - title: file-o # Resume information
+      url: https://www.google.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
