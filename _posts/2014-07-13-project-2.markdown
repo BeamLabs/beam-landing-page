@@ -9,6 +9,7 @@ thumbnail: fossa.png
 alt: image-alt
 project-date: Sept. 2016-Present
 client: Fossa
+website: http://fossa.io/
 category: Integration Testing
 description: Created infrastructure for integration tests, which significantly reduced the time it took to check that new features worked without regression.
 
