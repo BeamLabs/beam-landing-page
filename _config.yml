@@ -35,3 +35,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+port: 4001

@@ -1,0 +1,16 @@
+---
+title: Celestial
+subtitle: Game Development
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: celestial.png
+thumbnail: celestial.png
+alt: image-alt
+project-date: April 2014
+client: Side Project
+website: https://play.google.com/store/apps/details?id=com.saltygames.celestial
+category: Web Development
+description: Space themed infinite-runner game made for Android.
+
+---
