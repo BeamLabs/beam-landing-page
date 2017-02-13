@@ -4,8 +4,8 @@ subtitle: Full Stack Development
 layout: default
 modal-id: 5
 date: 2014-07-18
-img: mobilepay.png
-thumbnail: mobilepay.png
+img: BeamLabs_MobilePay.png
+thumbnail: BeamLabs_MobilePay.png
 alt: image-alt
 project-date: June 2015 - April 2016
 client: NCR

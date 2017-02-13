@@ -4,8 +4,8 @@ subtitle: Integration Testing
 layout: default
 modal-id: 1
 date: 2014-07-15
-img: fossa.png
-thumbnail: fossa.png
+img: BeamLabs_Fossa_V2.png
+thumbnail: BeamLabs_Fossa_V2.png
 alt: image-alt
 project-date: Sept. 2016-Present
 client: Fossa
