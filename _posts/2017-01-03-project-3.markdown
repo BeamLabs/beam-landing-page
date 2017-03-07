@@ -11,6 +11,20 @@ project-date: April 2014
 client: Side Project
 website: https://play.google.com/store/apps/details?id=com.saltygames.celestial
 category: Web Development
-description: Space themed infinite-runner game made for Android.
-
+description: |
+    Celestial is a space-based infinite runner game that is currently released for Android. Players pilot a spaceship by tapping at the right time for the ship to get to the next planet. This project was built with a remote-based team using the Unity game engine and can be found on the Android App Store. Primary duties for this project include concept development, team management, and coding.
+tools: Unity game engine, C#, Adobe Illustrator, Adobe Photoshop
+team: 
+- name: Andre Giron
+  website: http://andregiron.me
+  role: (Product Developer / Engineer)
+- name: Jason Libbey
+  website: http://www.jasonlibbey.com
+  role: (Game Programmer)
+- name: Cameron Luck
+  website: https://twitter.com/cameron_luck
+  role: (UI/UX Designer) 
+- name: Wicksell Metellus
+  role: (Graphic Designer/Artist)
+  website: https://twitter.com/metellusUX
 ---

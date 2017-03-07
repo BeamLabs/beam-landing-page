@@ -13,9 +13,22 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
+                            <h4>{{ post.subtitle }}</h4>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            <h4>Tools Used:</h4>
+                            <p>{{ post.tools }}</p>
+                            <h4>Check it out here:
+                                <a href="{{ post.website }}">{{ post.title }}</a>
+                            </h4>
+                            {% if post.team != null %}
+                                <h2>Team:</h2>
+                                 {% for member in post.team %}
+                                    <h4>{{ member.name }} - {{ member.role }}</h4>
+                                    <a href="{{ member.website }}">{{ member.website }}</a>
+                                 {% endfor %}
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="{{ post.website }}">{{ post.client }}</a>

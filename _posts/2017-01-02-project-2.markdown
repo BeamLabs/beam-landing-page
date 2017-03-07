@@ -10,6 +10,8 @@ alt: image-alt
 project-date: June 2015 - April 2016
 client: NCR
 category: Full Stack Web Development
-description: Supported and maintained the existing mobile pay code base.
+website: http://otb.ncrpay.com/
+description: This project is a mobile responsive website that enables restaurant customers to pay for their bill from the convenience of their mobile phone. This service uses web communications to streamline the checkout process and enhance the customer experience. Primary duties for this project included maintenance of existing code base and updates to functionality such as supporting gift/loyalty cards and signature capturing.
+tools: C#, ASP.net WebAPI, Moq, CastleWindsor, ASP.net MVC, SOAP/RESTful web services, CouchBase, MySQL 
 
 ---

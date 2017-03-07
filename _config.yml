@@ -11,7 +11,7 @@ description: "Official home page of Beam Labs."
 people:
 - name: Andre Giron
   pic: andre
-  position: Cofounder / Developer
+  position: Founder
   social:
     - title: github
       url: http://github.com/agiron123
@@ -21,6 +21,7 @@ people:
       url: https://www.linkedin.com/in/andre-giron-bb921943
     - title: file-o # Resume information
       url: http://andregiron.me/assets/Docs/ANDRE_GIRON_RESUME.pdf
+  specialization: I create websites using the latest technologies, and specialize in JavaScript and NodeJS development, using web frameworks like React, Angular, and Express. I’ve worked on a wide range of solo and collaborative projects, and am eager to come up with a customized solution to your development needs. For more information, visit my personal website. (http://andregiron.me)
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

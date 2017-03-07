@@ -11,6 +11,7 @@ project-date: Sept. 2016-Present
 client: Fossa
 website: http://fossa.io/
 category: Integration Testing
-description: Created infrastructure for integration tests, which significantly reduced the time it took to check that new features worked without regression.
+description: Fossa is a technology startup specializing in Open Source Software licensing. Their client base is primarily comprised of software development organizations, and their product offerings include both a cloud based system and an on-premises offering for clients concerned about security. This was a remote-based project that created a solution for Fossa’s backend integration testing. Primary duties included working with the software development team to write automated tests that significantly reduced the time it took to verify updates without regression.
+tools: JavaScript, NodeJS, Sequelize, Mocha, CircleCI, Docker
 
 ---
