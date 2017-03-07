@@ -1,11 +1,10 @@
-url: https://y7kim.github.io
-baseurl:
+url: http://beamlabs.net/
+baseurl: http://beamlabs.net/
 
 # Site settings
 title: Beam Labs
 email: agiron123@gmail.com
 description: "Official home page of Beam Labs."
-
 
 # Team names, titles and social links
 people:
@@ -31,7 +30,6 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Atlanta
-  - line: NYC
 
 # Build settings
 markdown: kramdown
