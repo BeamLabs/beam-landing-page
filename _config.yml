@@ -22,18 +22,6 @@ people:
       url: http://andregiron.me/assets/Docs/ANDRE_GIRON_RESUME.pdf
   specialization: I create websites using the latest technologies, and specialize in JavaScript and NodeJS development, using web frameworks like React, Angular, and Express. I’ve worked on a wide range of solo and collaborative projects, and am eager to come up with a customized solution to your development needs. For more information, visit my personal website. (http://andregiron.me)
 
-- name: Jacob Askew
-  pic: jake
-  position: Software Developer
-  social:
-    - title: github
-      url: https://github.com/Mousecop
-    - title: linkedin
-      url: https://www.linkedin.com/in/jacob-askew-developer
-    - title: desktop
-      url: https://mousecop.github.io/portfolio
-  specialization: I am full-stack developer that loves all things JavaScript. I have worked extensively with technologies such as React and Redux to build functioning and user friendly UI's. On the backend, I have used Node, Express, MongoDB and Mongoose to create private and public APIs that works together with the client side. So no matter what you need, we got you covered with clean code! 
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
